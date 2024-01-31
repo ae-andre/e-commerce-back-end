@@ -9,7 +9,7 @@ The [dotenv](https://www.npmjs.com/package/express-session) was used for authent
 
 ## Mock up
 
-![E-Commerce Back End walkthrough video showing api route functionality](https://drive.google.com/file/d/1cf5eppmSKFDrU1uFLkOZAwZjnSeU6Ron/view) 
+[![E-Commerce Back End walkthrough video showing api route functionality](./assets/Mock%20Up/Screenshot.jpg)](https://drive.google.com/file/d/1cf5eppmSKFDrU1uFLkOZAwZjnSeU6Ron/view) 
 
 ## License
 
